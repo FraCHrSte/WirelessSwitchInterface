@@ -36,8 +36,7 @@ Main repo
 - cmd: git clone https://github.com/FraCHrSte/WirelessSwitchInterface.git
 - All lib are included in the source code no need of extra downloads
 
-External library
-* https://github.com/etrombly/RFM69
+External library RFM69
 
 The following Python packages must be installed for the Raspberry Pi:
 

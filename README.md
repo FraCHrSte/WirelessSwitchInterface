@@ -1,17 +1,14 @@
-# WirelessSwitchInterface
+# Wireless Switch Interface
 
 700.496	Research Project in Pervasive Computing
-
 Project	Wireless switch interface
-
-date		17.05.2022
-
+Date		17.05.2022
 Version	1.0
-
 
 Wireless Radio Switch Interface for Radio Controlled Switch based on RFM69 and raspberry 
 
 # Hardware: 
+
 - Raspbarry pi 1.0
 - RFM69 
 

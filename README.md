@@ -46,6 +46,6 @@ Then reboot the system in any case.
 
 # Usage
 
-Start program: 
-Goto  application folder "/apps"
-Start with command: "./simplercpulse.py"
+-Start program: 
+-Goto  application folder " cd /apps"
+-Start with command: "./simplercpulse.py"

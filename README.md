@@ -34,7 +34,7 @@ The connection between the RFM69 and the raspberry pi is made as follows:
 Main repo
 * https://github.com/WirelessSwitchInterface/software
 - cmd: git clone https://github.com/FraCHrSte/WirelessSwitchInterface.git
-- All lib are included in the source code no need of extra downloads
+- All librarys are included in the source code no need of extra downloads
 
 External library RFM69
 
@@ -45,7 +45,7 @@ The following Python packages must be installed for the Raspberry Pi:
 
 Be sure to enable the SPI interface on your GPIO header using either the command `raspi-config`
 
-Then reboot the system in any case.
+Reboot the system in any case.
 
 
 # Usage

@@ -32,7 +32,7 @@ The connection between the RFM69 and the raspberry pi is made as follows:
 # Software: 
 
 Main repo
-https://github.com/FraCHrSte/WirelessSwitchInterface.git
+* https://github.com/WirelessSwitchInterface
 
 
 

@@ -14,15 +14,18 @@ Wireless Radio Switch Interface for Radio Controlled Switch based on RFM69 and r
 The project inculdes a pcb board file for the producing a test board. This file is created by the pcb program eagle V16
 The File in the directory hardware. 
 
-RFM pin	Pi pin
-3V3	    17
-DIO0	  18 (GPIO24)
-MOSI	  19
-MISO	  21
-CLK	    23
-NSS	    24 (CE0)
-Ground	25
-RESET	  22 (GPIO25)
+The connection between the RFM69 and the raspberry pi is made as follows:
+
+| RFM69 pin | RaspPi pin  
+| ------- |-------
+| 3V3     | 17  
+| DIO0    | 18 (GPIO24)  
+| MOSI    | 19  
+| MISO    | 21  
+| CLK     | 23  
+| NSS     | 24 (CE0)  
+| Ground  | 25  
+| RESET   | 22 (GPIO25)  
 
 
 

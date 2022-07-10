@@ -1,15 +1,13 @@
 # WirelessSwitchInterface
 
-##############################################################
-# 700.496	Research Project in Pervasive Computing
-# Project	Wireless switch interface
-# date		17.05.2022
-# Version	1.0
-##############################################################
+700.496	Research Project in Pervasive Computing
+Project	Wireless switch interface
+date		17.05.2022
+Version	1.0
 
 Wireless Radio Switch Interface for Radio Controlled Switch based on RFM69 and raspberry 
 
-Hardware: 
+# Hardware: 
 - Raspbarry pi 1.0
 - RFM69 
 
@@ -28,14 +26,14 @@ RESET	  22 (GPIO25)
 
 
 
-Software: 
+# Software: 
 
 Main repo
 https://github.com/FraCHrSte/WirelessSwitchInterface.git
 
 
 
-
+# Using
 
 Start program: 
 Goto  application folder "/apps"

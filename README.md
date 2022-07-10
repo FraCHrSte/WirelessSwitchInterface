@@ -33,6 +33,7 @@ The connection between the RFM69 and the raspberry pi is made as follows:
 
 Main repo
 * https://github.com/WirelessSwitchInterface/software
+- cmd: git clone https://github.com/FraCHrSte/WirelessSwitchInterface.git
 
 External library
 * https://github.com/etrombly/RFM69

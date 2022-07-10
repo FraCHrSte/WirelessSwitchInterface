@@ -34,6 +34,9 @@ The connection between the RFM69 and the raspberry pi is made as follows:
 Main repo
 * https://github.com/WirelessSwitchInterface/software
 
+External library
+* https://github.com/etrombly/RFM69
+
 The following Python packages must be installed for the Raspberry Pi:
 
 * RPi.GPIO

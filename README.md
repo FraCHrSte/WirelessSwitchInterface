@@ -19,13 +19,13 @@ The connection between the RFM69 and the raspberry pi is made as follows:
 | RFM69 pin | RaspPi pin  
 | ------- |-------
 | 3V3     | 17  
-| DIO0    | 18 (GPIO24)  
+| DIO0    | 18  
 | MOSI    | 19  
 | MISO    | 21  
 | CLK     | 23  
-| NSS     | 24 (CE0)  
+| NSS     | 24   
 | Ground  | 25  
-| RESET   | 22 (GPIO25)  
+| RESET   | 22   
 
 
 
